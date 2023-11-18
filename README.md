@@ -5,8 +5,6 @@ O Difencial desta distribuição é conter aplicações voltadas para a atividad
 
 <ul>
 <li>Node JS</li>
-<li>JDK</li>
-<li>Dotnet</li>
 <li>Python</li>
 <li>VS Code</li>
 <li>GIT</li>
