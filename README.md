@@ -1,7 +1,7 @@
 # Dev OS
 
 Dev OS é uma distribução GNU/Linux que tem  como base <a href="https://www.linuxliteos.com/"> Linux Lite  22.04 </a> voltada para o público de desnvolvimento de software.
-O Difencial desta distribuição é conter aplicações voltadas para a atividade de desenvolvimento previamente instaladas como:
+O Difencial desta distribuição é conter aplicações voltadas para a atividade de desenvolvimento previamente instaladas como
 
 <ul>
 <li>Node JS</li>
