@@ -1,6 +1,6 @@
 # Dev OS
 
-Dev OS é uma distribução GNU/Linux que tem  como base <a href="https://www.linuxliteos.com/"> Linux Lite  22.04 </a> voltada para o público de desnvolvimento de software.
+Dev OS é uma distribução GNU/Linux que tem  como base <a href="https://linuxmint.com/"> Linux Mint  21.1 </a> voltada para o público de desnvolvimento de software.
 O Difencial desta distribuição é conter aplicações voltadas para a atividade de desenvolvimento previamente instaladas como
 
 <ul>
@@ -8,6 +8,7 @@ O Difencial desta distribuição é conter aplicações voltadas para a atividad
 <li>Python</li>
 <li>VS Code</li>
 <li>GIT</li>
+<li>Java</li>
 </ul>
 
 Além das aplicações previemente instaladas, o sistema irá conter um aplicativo que permita intalar outraas ferramentas de maneira simples.
@@ -18,13 +19,9 @@ Além das aplicações previemente instaladas, o sistema irá conter um aplicati
 
 ## Downloads
 
-Versão atual: Beta 0.2
+Versão atual: 1.0
 
-<a href="https://fatecspgov-my.sharepoint.com/:u:/g/personal/samuel_scavassa_fatec_sp_gov_br/EUFnKRQOKu9HpER6t87nqxsBeJj_ipyuUJESX3NavVyzww?e=mhgUDN">DOWNLOAD</a>
-
-Hostórico de Versões 👇
-
-Beta 0.1: <a href="https://fatecspgov-my.sharepoint.com/:u:/g/personal/samuel_scavassa_fatec_sp_gov_br/EeVuc57S0c5NpFTbaAuphbQB9Y1t-SpOUXe-0csei5hLGQ?e=gNqKVg">DOWNLOAD</a>
+<a href="https://drive.google.com/file/d/1lZQnkaEOhgXgNn0SnviatMBPtflmmfKB/view?usp=sharing">DOWNLOAD</a>
 
 ## Contato
 
